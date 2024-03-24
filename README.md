@@ -29,7 +29,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp1MWZjZzJuNTQwNmlhcml5Z3p1bmN2eml1cncyOGhyM2dzZjgwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nkxCEG9UZsuqUjiADP/giphy.gif
+
+<img src='https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXp1MWZjZzJuNTQwNmlhcml5Z3p1bmN2eml1cncyOGhyM2dzZjgwcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nkxCEG9UZsuqUjiADP/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
 ## Notes
